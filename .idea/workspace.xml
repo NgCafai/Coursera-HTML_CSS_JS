@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87239ffb-e8f7-48f7-a9be-1154c32b0476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/module-solution/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/js/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-solution/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module4-solution/harder/SpeakGoodBye.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module4-solution/harder/SpeakHello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module4-solution/harder/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module4-solution/harder/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,19 +17,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module-solution/index.html">
+        <entry file="file://$PROJECT_DIR$/module4-solution/harder/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="363">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module-solution/css/styles.css">
+        <entry file="file://$PROJECT_DIR$/module4-solution/harder/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="-1391">
+              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module4-solution/harder/SpeakHello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="11" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module4-solution/harder/SpeakGoodBye.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,6 +82,9 @@
         <option value="$PROJECT_DIR$/module2-solution/css/styles.css" />
         <option value="$PROJECT_DIR$/module-solution/css/styles.css" />
         <option value="$PROJECT_DIR$/module-solution/index.html" />
+        <option value="$PROJECT_DIR$/module4-solution/harder/SpeakHello.js" />
+        <option value="$PROJECT_DIR$/module4-solution/harder/SpeakGoodBye.js" />
+        <option value="$PROJECT_DIR$/module4-solution/harder/script.js" />
       </list>
     </option>
   </component>
@@ -89,13 +111,13 @@
             <path>
               <item name="Coursera-HTML_CSS_JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coursera-HTML_CSS_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="module-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="module4-solution" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coursera-HTML_CSS_JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coursera-HTML_CSS_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="module-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="module4-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="harder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,13 +131,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556024926655" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556116116601" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\网课\coursera-html_css_javascript\homework\Coursera-HTML_CSS_JS\module4-solution" />
       <recent name="H:\网课\coursera-html_css_javascript\homework\Coursera-HTML_CSS_JS\module-solution" />
     </key>
   </component>
@@ -169,19 +192,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17805000" />
+    <option name="totallyTimeSpent" value="19899000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1032" extended-state="0" />
+    <frame x="0" y="0" width="1213" height="1032" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25620767" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16577253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -231,20 +255,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-solution/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module-solution/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/module-solution/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/module-solution/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/module-solution/index.html" />
+    <entry file="file://$PROJECT_DIR$/module3-solution/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="297">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-solution/index.html">
+    <entry file="file://$PROJECT_DIR$/module3-solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="396">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4-solution/harder/SpeakGoodBye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4-solution/harder/SpeakHello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4-solution/harder/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1391">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4-solution/harder/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
